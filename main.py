@@ -2,7 +2,7 @@ import subprocess
 
 
 
-script_path='it will be filled here'
+script_path='/home/pooriya/bashScipts/script.sh'
 
 subprocess.run(script_path,shell=True)
 
